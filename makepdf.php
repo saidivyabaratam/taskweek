@@ -32,3 +32,5 @@ $mpdf->WriteHTML($data);
 
 
 $mpdf->Output('myfile.pdf','D');
+
+?>
